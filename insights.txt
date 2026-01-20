@@ -1,0 +1,11 @@
+
+Business Insights – Task 4 (SQL Joins)
+
+1. The top 3 products generate approximately 45% of total revenue, indicating a strong sales concentration
+   in a small number of SKUs.
+
+2. Rock and Alternative music categories contribute the highest revenue, suggesting these genres should
+   be prioritized for promotions and new inventory.
+
+3. Around 15–20% of customers have never placed an order. These customers represent a key opportunity
+   for targeted marketing campaigns and onboarding discounts.
